@@ -19,7 +19,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<h1>cCube</h1>stands for "Code Collaborate Conquer", a platform to code with your peers. 
+<h1>cCube</h1>stands for "Complete Code Collaboration", a platform to code with your peers. 
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others.
